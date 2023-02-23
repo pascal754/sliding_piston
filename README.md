@@ -6,3 +6,7 @@
 Version 17.4.0 Preview 1.0
 
 - SFML 2.5.1#14 installed via vcpkg
+
+# Screenshot
+
+![screenshot](Screenshot.png)

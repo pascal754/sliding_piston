@@ -1,11 +1,11 @@
-# sliding_piston
+# Sliding piston
 
 - reciprocating piston using SFML
 
 - Microsoft Visual Studio Community 2022 (64-bit) - Preview
-Version 17.4.0 Preview 1.0
+Version 17.14.0 Preview 1.1
 
-- SFML 2.5.1#14 installed via vcpkg
+- sfml:x64-windows 3.0.0 via vcpkg
 
 # Screenshot
 
